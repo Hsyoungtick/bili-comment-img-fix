@@ -8,9 +8,12 @@
 ## 安装
 
 1. 先装一个用户脚本管理器：[Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)
-2. 安装脚本：
+2. 安装脚本，任选一个：
 
-   https://raw.githubusercontent.com/Hsyoungtick/bili-comment-img-fix/main/bili-comment-img-fix.user.js
+   - **Greasy Fork（推荐，能收到更新提示）**：https://greasyfork.org/zh-CN/scripts/598785
+   - GitHub 源码直链：<https://raw.githubusercontent.com/Hsyoungtick/bili-comment-img-fix/main/bili-comment-img-fix.user.js>
+
+   两处内容一致；从 Greasy Fork 安装的会跟随脚本页的版本更新。
 
 ## 使用
 
